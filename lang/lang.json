@@ -1,0 +1,17 @@
+{
+  "en": {
+    "elmento": "este es un texto de prueba (ingles)",
+    "link":"https://es-la.facebook.com/",
+    "video":"https://www.youtube.com/embed/2ZXiuh0rg3M"
+  },
+  "es": {
+    "elmento": "este es un texto de prueba (español)",
+    "link":"https://www.instagram.com/",
+    "video":"https://www.youtube.com/embed/7TKY-jksHRQ"
+  },
+  "pt": {
+    "elmento": "este es un texto de prueba (portugues)",
+    "link":"https://twitter.com/?lang=es",
+    "video":"https://www.youtube.com/embed/MJkdaVFHrto"
+  }
+}
